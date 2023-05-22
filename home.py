@@ -186,7 +186,7 @@ if (btn) or (not st.session_state['recherche'].empty):
         container = st.sidebar.container()
         container.image(jaquette(titres_films_proches.iloc[0]['poster_path'], url), width=250)
         container.title(titres_films_proches.iloc[0]['Titre'])
-        container.write(titres_films_proches.iloc[0]['overview'])
+        container.write(overview(titres_films_proches.iloc[0]['overview']))
         # FIN DE AJOUT A LA SIDE BAR DU FILMS
 
         # DEBUT DE LA CREATION DES VARIABLES FILTRES SECONDAIRES
