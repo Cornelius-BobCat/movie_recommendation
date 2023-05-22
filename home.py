@@ -66,8 +66,6 @@ def verifGenres(dd):
     return any(genre in dd['Genres'] for genre in liked_genre)
 
 def jaquette(i, url):
-    st.write(i)
-    st.write(url)
     if pd.notnull(i) and (i != 'False'):
         return url+i
     else:
