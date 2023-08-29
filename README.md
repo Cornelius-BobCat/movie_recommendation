@@ -1,4 +1,6 @@
 # movie_recommendation
 movie recommendation Streamlit / IMDB
 
-[presentation](https://i.ibb.co/t28q9YK/short-projet-IMDB.gif)
+[projet linkedin](https://www.linkedin.com/posts/corneliusvincent_recommandation-imdb-streamlit-activity-7102200366036840449-YiJd?utm_source=share&utm_medium=member_desktop)
+
+![presentation](https://i.ibb.co/zrHCvZc/Capture-d-e-cran-2023-08-29-a-09-50-09.png)
